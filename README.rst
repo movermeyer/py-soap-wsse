@@ -21,7 +21,7 @@ Continuous integration status:
     :alt: Coverage
     :target: https://codecov.io/github/mvantellingen/py-soap-wsse
     
-.. image:: https://pypip.in/version/soap_wsse/badge.svg
+.. image:: https://img.shields.io/pypi/v/soap_wsse.svg
     :target: https://pypi.python.org/pypi/soap_wsse/
 
 
